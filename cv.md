@@ -81,4 +81,3 @@ I am studying and really love frontend development, because this activity brings
 *   RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
 
 * * *
-anchors.add();
