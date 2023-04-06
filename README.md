@@ -1,1 +1,1 @@
-https://etherealelement.github.io/rsschool-cv/cv.md
+https://etherealelement.github.io/rsschool-cv/cv
