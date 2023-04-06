@@ -15,6 +15,7 @@ Safonov Vitaly
 *   **Telegram:** @etherealelement 
 *   [Codewars](https://www.codewars.com/users/ethereal%20element)  
 *   [GitHub](https://github.com/etherealelement)
+
 * * *
 
 ### Briefly About Myself:
