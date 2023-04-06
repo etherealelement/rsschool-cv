@@ -1,5 +1,5 @@
 
-[rsschool-cv](https://annavoloshina.github.io/rsschool-cv/)
+[rsschool-cv](https://github.com/etherealelement)
 ===========================================================
 
 Safonov Vitaly
@@ -15,7 +15,7 @@ Safonov Vitaly
 **E-mail:** vitalik.safonov@list.ru
 **Telegram:** @etherealelement 
 [Codewars](https://www.codewars.com/users/ethereal%20element)  
-[GitHub](https://annavoloshina.github.io/rsschool-cv/)
+[GitHub](https://github.com/etherealelement)
 * * *
 
 ### Briefly About Myself:
