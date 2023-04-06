@@ -10,11 +10,11 @@ Safonov Vitaly
 
 ### Contact information:
 
-* **Phone:** +7(906)-431-95-35 
-* **E-mail:** vitalik.safonov@list.ru
-* **Telegram:** @etherealelement 
-* [Codewars](https://www.codewars.com/users/ethereal%20element)  
-* [GitHub](https://github.com/etherealelement)
+*   **Phone:** +7(906)-431-95-35 
+*   **E-mail:** vitalik.safonov@list.ru
+*   **Telegram:** @etherealelement 
+*   [Codewars](https://www.codewars.com/users/ethereal%20element)  
+*   [GitHub](https://github.com/etherealelement)
 * * *
 
 ### Briefly About Myself:
