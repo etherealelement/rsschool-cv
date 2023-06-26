@@ -65,19 +65,3 @@ I am studying and really love frontend development, because this activity brings
     
 
 * * *
-
-### Courses && Lessons:
-
-*   HTML&CSS professional website layout [htmlacademy](https://htmlacademy.ru/study) (completed)  
-    ![Certificate](/images/2045485_page-0001.jpg)  
-*   JavaScipt Basic by PurpleSchool [PurpleSchool] (https://purpleschool.ru/) (completed)
-    ![Certificate](/images/VItaly_Safonov_9.png)
-*   JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/) 
-*   HEXLET: Basics of Programming (completed)
-*   HEXLET: JavaScript Basics (completed)
-*   HEXLET: JS: Массивы (completed)
-*   HEXLET: Command Line Basics(completed)
-*   Udemy: JS and React (in progress)
-*   RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
-
-* * *
