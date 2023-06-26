@@ -4,7 +4,7 @@
 
 Vitaly Safonov
 ===============
-### Trainee Frontend Developer
+###  Frontend Developer
 
 * * *
 
