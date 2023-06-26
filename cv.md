@@ -2,7 +2,7 @@
 [rsschool-cv](https://github.com/etherealelement)
 ===========================================================
 
-Safonov Vitaly
+Vitaly Safonov
 ===============
 ### Trainee Frontend Developer
 
